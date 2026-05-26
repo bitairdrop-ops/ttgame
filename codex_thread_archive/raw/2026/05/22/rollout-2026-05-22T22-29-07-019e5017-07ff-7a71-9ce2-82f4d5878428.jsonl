@@ -1,0 +1,9 @@
+# Split Codex raw rollout
+
+source: /Users/vincet/.codex/sessions/2026/05/22/rollout-2026-05-22T22-29-07-019e5017-07ff-7a71-9ce2-82f4d5878428.jsonl
+original_bytes_utf8: 241913717
+chunks: 6
+chunk_pattern: rollout-2026-05-22T22-29-07-019e5017-07ff-7a71-9ce2-82f4d5878428.jsonl.partNNN
+
+This raw rollout is split to keep each Git blob below GitHub's 100MB hard limit.
+Concatenate the part files in numeric order to reconstruct the redacted JSONL content.
