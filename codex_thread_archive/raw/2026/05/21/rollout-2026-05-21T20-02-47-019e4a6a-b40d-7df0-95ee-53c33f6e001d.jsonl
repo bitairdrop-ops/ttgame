@@ -1,7 +1,7 @@
 # Split Codex raw rollout
 
 source: /Users/vincet/.codex/sessions/2026/05/21/rollout-2026-05-21T20-02-47-019e4a6a-b40d-7df0-95ee-53c33f6e001d.jsonl
-original_bytes_utf8: 105116319
+original_bytes_utf8: 105386108
 chunks: 3
 chunk_pattern: rollout-2026-05-21T20-02-47-019e4a6a-b40d-7df0-95ee-53c33f6e001d.jsonl.partNNN
 
