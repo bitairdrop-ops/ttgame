@@ -1,8 +1,8 @@
 # Split Codex raw rollout
 
 source: /Users/vincet/.codex/sessions/2026/05/21/rollout-2026-05-21T20-02-47-019e4a6a-b40d-7df0-95ee-53c33f6e001d.jsonl
-original_bytes_utf8: 233430069
-chunks: 5
+original_bytes_utf8: 241936521
+chunks: 6
 chunk_pattern: rollout-2026-05-21T20-02-47-019e4a6a-b40d-7df0-95ee-53c33f6e001d.jsonl.partNNN
 
 This raw rollout is split to keep each Git blob below GitHub's 100MB hard limit.
